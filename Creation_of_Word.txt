@@ -1,0 +1,2 @@
+I am writing bunch of things to repeat the steps
+So through repetion I will remember how to the relation between git and GitHub works.
